@@ -1,5 +1,5 @@
 # Olá Pessoas , eu sou a  Samira 👋
-Hoje em dia, estou trabalhando com desenvolvimento  de Back-end com NodeJs. 
+Estudante de engenharia da computação e hoje em dia, estou trabalhando com desenvolvimento de Back-end com NodeJs. 
 
 
 ## Sobre mim: 
