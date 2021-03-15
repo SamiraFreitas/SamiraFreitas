@@ -1,9 +1,9 @@
 # Olá Pessoas , eu sou a  Samira 👋
-Estudante de engenharia da computação e hoje em dia, estou trabalhando com desenvolvimento de Back-end com NodeJs. 
+Estudante de engenharia da computação e hoje em dia, estou trabalhando com desenvolvimento de front-end com React. 
 
 
 ## Sobre mim: 
-Posso dizer que atualmente meu foco esta direcionado para o desenvolvimento de back-end com NodeJs, mas venho adquirindo experiências de front-end com React. 
+Posso dizer que atualmente meu foco esta direcionado para o desenvolvimento de front-end com React, mas venho adquirindo experiências de back-end com NodeJs. 
 
 ### Habilidades: 
 Java, C, JavaScript, React,  Node js, MongoDB, Latex.
