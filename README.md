@@ -6,7 +6,7 @@ Estudante de engenharia da computação e hoje em dia, estou trabalhando com des
 Posso dizer que atualmente meu foco esta direcionado para o desenvolvimento de front-end com React, mas venho adquirindo experiências de back-end com NodeJs. 
 
 ### Habilidades: 
-Java, C, JavaScript, React,  Node js, MongoDB, Latex.
+Java, C, JavaScript, Html, CSS3, Latex.
 
 :cocktail: Wine |   :neckbeard: Games |  :revolving_hearts: Programming | :octocat: Animes 
 
