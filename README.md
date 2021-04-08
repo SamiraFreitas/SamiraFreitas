@@ -18,6 +18,8 @@ I love cats
 
 ## Midia Social:mailbox_with_no_mail:
 
+![tenor](https://user-images.githubusercontent.com/73719899/113953386-14afac80-97ee-11eb-8c52-371b281fa212.gif)
+
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/SamiraFreitas/)
 
 
