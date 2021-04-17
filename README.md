@@ -1,5 +1,5 @@
 # Olá Pessoas , eu sou a  Samira 👋
-Estudante de engenharia da computação e hoje em dia, estou trabalhando com desenvolvimento de front-end com React. 
+Estudante de engenharia da computação e hoje em dia estou trabalhando com desenvolvimento de front-end com React. 
 
 
 ## Sobre mim: 
