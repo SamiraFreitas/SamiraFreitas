@@ -8,7 +8,7 @@ Posso dizer que atualmente meu foco esta direcionado para o desenvolvimento de f
 ### Habilidades: 
 Java, C, Html, CSS3, Latex, Js
 
-:cocktail: Wine |   :neckbeard: Games |  :revolving_hearts: Programming | :octocat: Animes | 🏕️ travel
+:cocktail: Wine |   :neckbeard: Games |  :revolving_hearts: Programming | :octocat: Animes | 🏕️ Travel
 
 I'm from Brazil
 
