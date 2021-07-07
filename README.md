@@ -6,7 +6,7 @@ Estudante de engenharia da computação e hoje em dia estou trabalhando com dese
 Posso dizer que atualmente meu foco esta direcionado para o desenvolvimento de front-end com React, mas venho adquirindo experiências de back-end com NodeJs. 
 
 ### Habilidades: 
-Java, C, Html, CSS3, Latex, Js, React, Typescript, Figma
+Java, C, Html, CSS3, Latex, Js, React, Typescript, Figma, Coreldraw
 
 :cocktail: Wine |   :neckbeard: Games |  :revolving_hearts: Programming | :octocat: Animes | 🏕️ Travel
 
