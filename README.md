@@ -1,6 +1,6 @@
 ![Group 1](https://user-images.githubusercontent.com/73719899/126915827-170fc4b3-0678-4ffc-8835-66f61979f644.png)
 
-# Olá Pessoas , eu sou a  Samira 👋
+# Olá Pessoas , eu sou a  Samira
 
 Estudante de engenharia da computação e hoje em dia estou trabalhando com desenvolvimento de front-end com React. 
 
