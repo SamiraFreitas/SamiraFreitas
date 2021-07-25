@@ -1,15 +1,14 @@
 ![WhatsApp Image 2021-07-25 at 20 09 1](https://user-images.githubusercontent.com/73719899/126916422-53f3b009-2f11-4e00-9fde-61b75be2789c.png)
 
 
-# Olá Pessoas , eu sou a  Samira
+# Hello time travelers
 
-Estudante de engenharia da computação e hoje em dia estou trabalhando com desenvolvimento de front-end com React. 
+Computer engineering student and currently working with front-end development with React.
 
+## A little about myself: 
+I can say that currently my focus is on front-end development with React, but I've been gaining back-end experiences with NodeJs.
 
-## Sobre mim: 
-Posso dizer que atualmente meu foco esta direcionado para o desenvolvimento de front-end com React, mas venho adquirindo experiências de back-end com NodeJs. 
-
-### Habilidades: 
+### Skills: 
 Java, C, Html, CSS3, Latex, Js, React, Typescript, Figma, Coreldraw
 
 :cocktail: Wine |   :neckbeard: Games |  :revolving_hearts: Programming | :octocat: Animes | 🏕️ Travel
@@ -17,10 +16,7 @@ Java, C, Html, CSS3, Latex, Js, React, Typescript, Figma, Coreldraw
 I'm from Brazil
 
 I love cats
-
-
-
-## Midia Social:mailbox_with_no_mail:
+## Social media
 
 
 
