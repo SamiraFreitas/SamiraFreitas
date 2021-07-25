@@ -1,4 +1,5 @@
-![Group 1](https://user-images.githubusercontent.com/73719899/126915827-170fc4b3-0678-4ffc-8835-66f61979f644.png)
+![WhatsApp Image 2021-07-25 at 20 09 1](https://user-images.githubusercontent.com/73719899/126916422-53f3b009-2f11-4e00-9fde-61b75be2789c.png)
+
 
 # Olá Pessoas , eu sou a  Samira
 
