@@ -11,11 +11,10 @@ I can say that currently my focus is on front-end development with React, but I'
 ### Skills: 
 Java, C, Html, CSS3, Latex, Js, React, Typescript, Figma, Coreldraw
 
-🍷Wine |   👾 Games |  💻 Programming | ㊙️ Animes | 🏕️ Travel
+### Lover:
 
-I'm from Brazil
+🍷Wine |   👾 Games |  💻 Programming | ㊙️ Animes | 🏕️ Travel | Cats 🐱
 
-I love cats
 ## Social media
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/SamiraFreitas/)
 
