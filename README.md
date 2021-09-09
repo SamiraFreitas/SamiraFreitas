@@ -1,7 +1,7 @@
 ![WhatsApp Image 2021-07-25 at 20 09 1](https://user-images.githubusercontent.com/73719899/126916422-53f3b009-2f11-4e00-9fde-61b75be2789c.png)
 
 
-# Hello time travelers
+# Hello 
 
 Computer engineering student and currently working with front-end development with React.
 
