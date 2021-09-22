@@ -12,8 +12,6 @@ Java, C, Html, CSS3, Latex, Js, React, Typescript, Figma, Coreldraw
 
 🍷Wine |   👾 Games |  💻 Programming | ㊙️ Animes | 🏕️ Travel | Cats 🐱
 
-![Captura de tela 2021-09-09 005507](https://user-images.githubusercontent.com/73719899/132604697-23cc7abe-7384-4a3b-abfb-d3f8ba201da0.png)
-
 ## Social media
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/SamiraFreitas/)
 
