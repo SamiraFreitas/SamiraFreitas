@@ -1,6 +1,6 @@
 # Hello 
 
-Computer engineering student and currently working with front-end development with React.
+Information Systems student, currently working as a project management intern at Raízen, lover of front-end development.
 
 ## A little about myself: 
 I can say that currently my focus is on front-end development with React, but I've been gaining back-end experiences with NodeJs.
