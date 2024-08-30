@@ -1,6 +1,6 @@
 # Hello 
 
-Information Systems student, currently working as a project management intern at Raízen, lover of front-end development.
+Information Systems student, currently a data governance intern at PagBank, lover of front-end development
 
 ## A little about myself: 
 I can say that currently my focus is on front-end development with React, but I've been gaining back-end experiences with NodeJs.
